@@ -1,2 +1,5 @@
 # sorting_algorithms
-Sorting Algorithms
+
+## Sorting Algorithms
+
+Project team: AdamsGeeky MUHAMMAD, Stephen Okafor
